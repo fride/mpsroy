@@ -6,7 +6,11 @@
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="${project}/languages/base/base.mpl" folder="" />
+      <modulePath path="${project}/languages/expressions/expressions.mpl" folder="" />
+      <modulePath path="${project}/languages/module/module.mpl" folder="" />
       <modulePath path="${project}/languages/mpsroy/mpsroy.mpl" />
+      <modulePath path="${project}/languages/statements/statements.mpl" folder="" />
       <modulePath path="${project}/solutions/mpsroy.sandbox/mpsroy.sandbox.msd" />
     </projectModules>
     <genConfs />

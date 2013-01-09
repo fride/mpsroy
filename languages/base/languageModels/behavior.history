@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="e6dw" modelUID="r:b2e6143a-f7a0-4267-88db-d30df686a084(org.fride.mpsroy.base.structure)" version="-1" />
+      <model index="req7" modelUID="r:b6659be5-55c3-4b90-9d41-1ec74d3266fd(org.fride.mpsroy.base.typesystem)" version="-1" />
+      <model index="hzgw" modelUID="r:f71032ac-0388-43c1-9eb6-b0f9a7397144(org.fride.mpsroy.base.constraints)" version="-1" />
+      <model index="ami3" modelUID="r:09e447fe-abf0-4770-8c78-c6cb7d80502e(org.fride.mpsroy.base.editor)" version="-1" />
+      <model index="fanv" modelUID="r:aa480b6f-4c5b-4e02-a035-bb3a348d02ec(org.fride.mpsroy.base.behavior)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:b6659be5-55c3-4b90-9d41-1ec74d3266fd(org.fride.mpsroy.base.typesystem)" newModel="r:b6659be5-55c3-4b90-9d41-1ec74d3266fd(mpsroy.base.typesystem)" />
+    <RenameModel oldModel="r:f71032ac-0388-43c1-9eb6-b0f9a7397144(org.fride.mpsroy.base.constraints)" newModel="r:f71032ac-0388-43c1-9eb6-b0f9a7397144(mpsroy.base.constraints)" />
+    <RenameModel oldModel="r:aa480b6f-4c5b-4e02-a035-bb3a348d02ec(org.fride.mpsroy.base.behavior)" newModel="r:aa480b6f-4c5b-4e02-a035-bb3a348d02ec(mpsroy.base.behavior)" />
+    <RenameModel oldModel="r:09e447fe-abf0-4770-8c78-c6cb7d80502e(org.fride.mpsroy.base.editor)" newModel="r:09e447fe-abf0-4770-8c78-c6cb7d80502e(mpsroy.base.editor)" />
+    <RenameModel oldModel="r:b2e6143a-f7a0-4267-88db-d30df686a084(org.fride.mpsroy.base.structure)" newModel="r:b2e6143a-f7a0-4267-88db-d30df686a084(mpsroy.base.structure)" />
+  </StructureModification>
+</history>
+

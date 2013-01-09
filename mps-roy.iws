@@ -29,178 +29,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12c38ae1-115e-401c-9caa-95a15408b377" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/Language.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/ArrayLiteral_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/ArrayType_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/BehaviorAspectDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/BinaryExpression_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/BooleanLiteral_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/BooleanType_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/ExpressionStatement_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/Expression_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/FalseLiteral_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/FunctionType_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/IIdentifier_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/IfThenElse_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/LambdaExpression_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/LetBinding_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/LetFunction_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/Literal_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/Module_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/NativeType_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/NumberLiteral_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/NumberType_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/ParameterList_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/Parameter_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/ParanExpression_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/StatementList_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/Statement_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/StringLiteral_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/StringType_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/TrueLiteral_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/TypeAnnotatable_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/TypeReference_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/Type_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/UnaryExpression_BehaviorDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ArrayLiteral_Editor$expressionsListHandler_maey8r_b0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ArrayLiteral_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ArrayType_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/BinaryExpression_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/BooleanLiteral_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/BooleanType_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ExpressionStatement_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/FunctionType_Editor$_Inline_bqk3nx_a2a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/FunctionType_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/IfThenElse_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/LetBinding_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/LetFunction_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/Module_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/NumberLiteral_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/NumberType_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ParameterList_Editor$parametersListHandler_ya4gw2_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ParameterList_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/Parameter_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/ParanExpression_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/StatementList_Editor$statementsListHandler_u338ov_a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/StatementList_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/StringLiteral_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/StringType_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/UnaryExpression_Editor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/intentions/IntentionsDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/intentions/addTypeAnnotation_Intention.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/intentions/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/structure/Mpsroy_Language.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/structure/StructureAspectDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/TypesystemDescriptor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_ArrayLiteral_InferenceRule$QuotationClass_8lb61p_a0a0a0a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_ArrayLiteral_InferenceRule$QuotationClass_8lb61p_a0a2a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_ArrayLiteral_InferenceRule$QuotationClass_8lb61p_a0a3a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_ArrayLiteral_InferenceRule$QuotationClass_8lb61p_a0a3a0a0a.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_ArrayLiteral_InferenceRule.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_BooleanLiteral_InferenceRule$QuotationClass_twkkmd_a0a0a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_BooleanLiteral_InferenceRule.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_IfThenElse_InferenceRule$QuotationClass_hlv0r_a0a0a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_IfThenElse_InferenceRule$QuotationClass_hlv0r_a0a1a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_IfThenElse_InferenceRule.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_LetFunction_InferenceRule$QuotationClass_u9j4zx_a0a0a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_LetFunction_InferenceRule$QuotationClass_u9j4zx_a0a1a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_LetFunction_InferenceRule$QuotationClass_u9j4zx_a0a2a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_LetFunction_InferenceRule.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_ParanExpression_InferenceRule.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_StringLiteral_InferenceRule$QuotationClass_thw0ur_a0a0a0.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/classes_gen/mpsroy/typesystem/typeof_StringLiteral_InferenceRule.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/behavior/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/behavior/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/constraints/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/constraints/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/editor/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/editor/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/intentions/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/intentions/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/structure/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/structure/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/typesystem/dependencies" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen.caches/mpsroy/typesystem/generated" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/intentions/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/solutions/mpsroy.sandbox/classes_gen/mpsroy/sandbox/sandbox/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/ArrayLiteral_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/ArrayType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/BehaviorAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/BinaryExpression_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/BooleanLiteral_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/BooleanType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/ExpressionStatement_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/Expression_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/FalseLiteral_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/FunctionType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/IIdentifier_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/IfThenElse_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/LambdaExpression_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/LetBinding_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/LetFunction_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/Literal_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/Module_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/NativeType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/NumberLiteral_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/NumberType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/ParameterList_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/Parameter_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/ParanExpression_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/StatementList_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/Statement_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/StringLiteral_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/StringType_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/TrueLiteral_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/TypeAnnotatable_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/TypeReference_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/Type_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/behavior/UnaryExpression_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/ArrayLiteral_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/ArrayType_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/BinaryExpression_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/BooleanLiteral_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/BooleanType_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/ExpressionStatement_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/FunctionType_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/IfThenElse_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/LetBinding_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/LetFunction_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/Module_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/NumberLiteral_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/NumberType_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/ParameterList_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/Parameter_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/ParanExpression_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/StatementList_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/StringLiteral_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/StringType_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/editor/UnaryExpression_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/intentions/IntentionsDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/intentions/addTypeAnnotation_Intention.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/structure/Mpsroy_Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/structure/StructureAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/TypesystemDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_ArrayLiteral_InferenceRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_BooleanLiteral_InferenceRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_IfThenElse_InferenceRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_LetFunction_InferenceRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_ParanExpression_InferenceRule.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_StringLiteral_InferenceRule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/behavior.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/constraints.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/editor.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/structure.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/typesystem.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/base.mpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/behavior.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/constraints.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/editor.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/structure.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/base/languageModels/typesystem.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/expressions.mpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/actions.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/behavior.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/constraints.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/editor.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/structure.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/expressions/languageModels/typesystem.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/module/languageModels/behavior.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/module/languageModels/constraints.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/module/languageModels/editor.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/module/languageModels/structure.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/module/languageModels/typesystem.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/module/module.mpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/languageModels/actions.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/languageModels/behavior.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/languageModels/constraints.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/languageModels/editor.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/languageModels/structure.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/languageModels/typesystem.mps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/statements/statements.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/mpsroy.sandbox/source_gen.caches/mpsroy/sandbox/sandbox/generated" afterPath="$PROJECT_DIR$/solutions/mpsroy.sandbox/source_gen.caches/mpsroy/sandbox/sandbox/generated" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/mpsroy/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/mpsroy/languageModels/editor.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/mpsroy/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/mpsroy/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/mpsroy/mpsroy.mpl" afterPath="$PROJECT_DIR$/languages/mpsroy/mpsroy.mpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mps-roy.iws" afterPath="$PROJECT_DIR$/mps-roy.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mps-roy.mpr" afterPath="$PROJECT_DIR$/mps-roy.mpr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/mpsroy.sandbox/models/mpsroy/sandbox/sandbox.mps" afterPath="$PROJECT_DIR$/solutions/mpsroy.sandbox/models/mpsroy/sandbox/sandbox.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/solutions/mpsroy.sandbox/mpsroy.sandbox.msd" afterPath="$PROJECT_DIR$/solutions/mpsroy.sandbox/mpsroy.sandbox.msd" />
     </list>
     <ignored path="mps-roy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -236,38 +104,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ParanExpression" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://mpsroy.structure/ParanExpression">
+      <file leaf-file-name="auwo" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://mpsroy.sandbox.sandbox/auwo">
           <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-              <node nodeId="3196545117022361283" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TypeAnnotatable" pinned="false" current="true" current-in-tab="true">
-        <entry file="mps://mpsroy.structure/TypeAnnotatable">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="selectionEnd" value="15" />
-                    <property name="hasNonTrivialSelection" value="true" />
-                    <property name="caretXRelative" value="40" />
-                    <property name="selectionStart" value="0" />
-                    <property name="caretX" value="195" />
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="32" />
+                    <property name="caretX" value="107" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="TransactionalProperty_7v1nzk_b0a" cellNumber="0" isInList="false">
-                      <node model="r:9f0b4fd5-bbf4-4a41-8841-702bc206c12b(mpsroy.structure)" id="3196545117022151624" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:dc7f8258-6557-484b-8109-6ba065a467a7(mpsroy.sandbox.sandbox)" id="1356057155837659339" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -277,13 +126,38 @@
                 <selectionStack />
                 <folded />
               </inspectorMemento>
-              <node nodeId="3196545117022151624" modelId="r:9f0b4fd5-bbf4-4a41-8841-702bc206c12b(mpsroy.structure)" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringType" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://mpsroy.structure/StringType">
+      <file leaf-file-name="test" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://mpsroy.sandbox.sandbox/test">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="67" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:dc7f8258-6557-484b-8109-6ba065a467a7(mpsroy.sandbox.sandbox)" id="3196545117022242042" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayLiteral" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://mpsroy.expressions.structure/ArrayLiteral">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
@@ -294,13 +168,101 @@
                 <selectionStack />
                 <folded />
               </inspectorMemento>
-              <node nodeId="3196545117022342696" modelId="r:55c3d9ae-d698-453e-9adc-36d4975c6824(mpsroy.editor)" />
+              <node nodeId="1356057155837614860" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParanthesisExpression" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://mpsroy.expressions.structure/ParanthesisExpression">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="1356057155837655811" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LetBinding" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://mpsroy.statements.structure/LetBinding">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="267" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_role" cellNumber="0" isInList="false">
+                      <node model="r:f188ac7b-1da3-4868-a5a7-d215f49b9219(mpsroy.statements.editor)" id="1356057155837656006" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="1356057155837655974" modelId="r:f188ac7b-1da3-4868-a5a7-d215f49b9219(mpsroy.statements.editor)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExpressionStatement" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://mpsroy.statements.structure/ExpressionStatement">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretXRelative" value="0" />
+                    <property name="caretX" value="75" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                      <node model="r:0ce70ed1-a5a5-463b-a91c-30f345f655ad(mpsroy.statements.structure)" id="7936668818442095520" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="7936668818442095520" modelId="r:0ce70ed1-a5a5-463b-a91c-30f345f655ad(mpsroy.statements.structure)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberLiteral" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://mpsroy.expressions.structure/NumberLiteral">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="1356057155837653345" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="StringLiteral" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://mpsroy.structure/StringLiteral">
+        <entry file="mps://mpsroy.expressions.structure/StringLiteral">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
               <memento viewPositionX="0" viewPositionY="0">
@@ -311,112 +273,7 @@
                 <selectionStack />
                 <folded />
               </inspectorMemento>
-              <node nodeId="3196545117022351006" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IfThenElse" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://mpsroy.structure/IfThenElse">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-              <node nodeId="3196545117022335128" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EqualityExpression" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://jetbrains.mps.bash.structure/EqualityExpression">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="128" />
-                    <property name="caretX" value="443" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" id="3999172467438761816" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-              <node nodeId="3999172467438761816" modelId="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryArithmeticExpression" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://jetbrains.mps.bash.structure/BinaryArithmeticExpression">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack>
-                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                    <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretXRelative" value="48" />
-                    <property name="caretX" value="79" />
-                    <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                      <node model="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" id="3999172467437184655" />
-                    </cellInfo>
-                  </stackElement>
-                </selectionStack>
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-              <node nodeId="3999172467437060443" modelId="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IfStatement" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://jetbrains.mps.baseLanguage.structure/IfStatement">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-              <node nodeId="1176898805542" modelId="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ElsifClause" pinned="false" current="false" current-in-tab="false">
-        <entry file="mps://jetbrains.mps.baseLanguage.structure/ElsifClause">
-          <provider selected="true" editor-type-id="MPSFileEditor">
-            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-              <memento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </memento>
-              <inspectorMemento viewPositionX="0" viewPositionY="0">
-                <selectionStack />
-                <folded />
-              </inspectorMemento>
-              <node nodeId="1206069292242" modelId="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" />
+              <node nodeId="1356057155837654505" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
             </state>
           </provider>
         </entry>
@@ -551,7 +408,35 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="mpsroy">
+            <PATH_ELEMENT USER_OBJECT="mpsroy.statements">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mpsroy.statements">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="mpsroy.statements.structure">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Empty">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Project">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -577,14 +462,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="3196545117022242042">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="3196545117022242043">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -597,57 +474,16 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="JUnit Tests" factoryName="JUnit Tests">
-      <MyState>
-        <option name="myModel" />
-        <option name="myModule" />
-        <option name="myTestCases">
-          <list />
-        </option>
-        <option name="myTestMethods">
-          <list />
-        </option>
-        <option name="myRunType" />
-      </MyState>
-      <myJUnitSettings>
-        <MyState>
-          <option name="myModel" />
-          <option name="myModule" />
-          <option name="myTestCases">
-            <list />
-          </option>
-          <option name="myTestMethods">
-            <list />
-          </option>
-          <option name="myRunType" />
-        </MyState>
-      </myJUnitSettings>
-      <myJavaRunParameters>
-        <MyState>
-          <option name="myJavaRunParameters">
-            <JavaRunParameters>
-              <option name="jrePath" />
-              <option name="programParameters" />
-              <option name="useAlternativeJre" value="false" />
-              <option name="vmOptions" />
-              <option name="workingDirectory" />
-            </JavaRunParameters>
-          </option>
-        </MyState>
-      </myJavaRunParameters>
-      <method>
-        <option name="jetbrains.mps.execution.configurations.pluginSolution.plugin.MakeNodePointers_BeforeTask" enabled="true" />
-      </method>
-    </configuration>
     <list size="0" />
     <configuration name="&lt;template&gt;" type="Application" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -705,34 +541,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.497552" order="27" side_tool="false" content_ui="tabs" />
       <window_info id="Dependendies Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938644" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5177479" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.49018404" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.46590224" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Bookmarks" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32951117" sideWeight="0.6706136" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33373567" sideWeight="0.6630786" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24908201" sideWeight="0.6706136" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24864213" sideWeight="0.66200215" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.0" order="21" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33692142" sideWeight="0.5371153" order="21" side_tool="true" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
-      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944787" sideWeight="0.6706136" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.48286414" order="24" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33692142" sideWeight="0.45866022" order="24" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Module Dependencies" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="25" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -4076,7 +3912,22 @@
     <MESSAGE value="Initial version with some types." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="mps://jetbrains.mps.bash.structure/ArithmeticExpression">
+    <entry file="mps://mpsroy.structure/ArrayLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="3196545117022273879" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.expressions.structure/Literal">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
@@ -4087,7 +3938,7 @@
                 <property name="caretX" value="75" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
-                  <node model="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" id="7633559109507193260" />
+                  <node model="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" id="7936668818442095561" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -4097,22 +3948,22 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
-          <node nodeId="7633559109507193260" modelId="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" />
+          <node nodeId="7936668818442095561" modelId="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://jetbrains.mps.lang.typesystem.structure/CreateLessThanInequationStatement">
+    <entry file="mps://mpsroy.expressions.structure/ObjectLiteral">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="152" />
-                <property name="caretX" value="183" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="75" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_l1c0" cellNumber="0" isInList="false">
-                  <node model="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" id="1174663118805" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" id="7936668818442095646" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -4122,13 +3973,78 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
-          <node nodeId="1174663118805" modelId="r:00000000-0000-4000-0000-011c895902b4(jetbrains.mps.lang.typesystem.structure)" />
+          <node nodeId="7936668818442095646" modelId="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/languages/mpsroy/source_gen/mpsroy/typesystem/typeof_IfThenElse_InferenceRule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="26" selection-start="2574" selection-end="2574" vertical-scroll-proportion="0.3326886" />
+    <entry file="mps://mpsroy.expressions.structure/TrueLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="0" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" id="7936668818442095580" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="7936668818442095580" modelId="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.expressions.structure/BooleanLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1356057155837653308" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.expressions.structure/NumberLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1356057155837653345" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.expressions.structure/StringLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1356057155837654505" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+        </state>
       </provider>
     </entry>
     <entry file="mps://mpsroy.sandbox.sandbox/test">
@@ -4139,10 +4055,10 @@
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
                 <property name="caretXRelative" value="0" />
-                <property name="caretX" value="47" />
+                <property name="caretX" value="67" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_fgt3_a0" cellNumber="0" isInList="false">
-                  <node model="r:dc7f8258-6557-484b-8109-6ba065a467a7(mpsroy.sandbox.sandbox)" id="3196545117022352720" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:dc7f8258-6557-484b-8109-6ba065a467a7(mpsroy.sandbox.sandbox)" id="3196545117022242042" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -4155,7 +4071,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://mpsroy.structure/NumberLiteral">
+    <entry file="mps://mpsroy.expressions.structure/ArrayLiteral">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1356057155837614860" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.expressions.structure/ParanthesisExpression">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1356057155837655811" modelId="r:4884996d-61ec-4301-a685-0fb7b585b318(mpsroy.expressions.typesystem)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.structure/BaseVariableDeclaration">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
@@ -4166,7 +4112,7 @@
                 <property name="caretX" value="75" />
                 <property name="sideSelectDirection" value="NONE" />
                 <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
-                  <node model="r:9f0b4fd5-bbf4-4a41-8841-702bc206c12b(mpsroy.structure)" id="3196545117022252069" />
+                  <node model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" id="4972933694980447171" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -4176,11 +4122,61 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
-          <node nodeId="3196545117022252069" modelId="r:9f0b4fd5-bbf4-4a41-8841-702bc206c12b(mpsroy.structure)" />
+          <node nodeId="4972933694980447171" modelId="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://jetbrains.mps.baseLanguage.structure/TypeAnnotable">
+    <entry file="mps://jetbrains.mps.baseLanguage.structure/VariableDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="40" />
+                <property name="caretX" value="363" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" id="1068431474542" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1068431474542" modelId="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://jetbrains.mps.baseLanguage.structure/FieldDeclaration">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="248" />
+                <property name="caretX" value="415" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:00000000-0000-4000-0000-011c895902c3(jetbrains.mps.baseLanguage.editor)" id="1188210576816" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1075289941062" modelId="r:00000000-0000-4000-0000-011c895902c3(jetbrains.mps.baseLanguage.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.statements.structure/ExpressionStatement">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
           <memento viewPositionX="0" viewPositionY="0">
@@ -4188,10 +4184,10 @@
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
                 <property name="caretXRelative" value="0" />
-                <property name="caretX" value="147" />
+                <property name="caretX" value="75" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" id="1204296261755" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:0ce70ed1-a5a5-463b-a91c-30f345f655ad(mpsroy.statements.structure)" id="7936668818442095520" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -4201,22 +4197,46 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
-          <node nodeId="1204296261755" modelId="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" />
+          <node nodeId="7936668818442095520" modelId="r:0ce70ed1-a5a5-463b-a91c-30f345f655ad(mpsroy.statements.structure)" />
         </state>
       </provider>
     </entry>
-    <entry file="mps://jetbrains.mps.lang.structure.findUsages/NodeUsages">
+    <entry file="mps://mpsroy.sandbox.sandbox/auwo">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretXRelative" value="32" />
+                <property name="caretX" value="107" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:dc7f8258-6557-484b-8109-6ba065a467a7(mpsroy.sandbox.sandbox)" id="1356057155837659339" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://mpsroy.statements.structure/LetBinding">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
                 <property name="caretXRelative" value="0" />
-                <property name="caretX" value="123" />
+                <property name="caretX" value="267" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:00000000-0000-4000-0000-011c8959028e(jetbrains.mps.lang.structure.findUsages)" id="1197636141662" />
+                <cellInfo cellId="property_role" cellNumber="0" isInList="false">
+                  <node model="r:f188ac7b-1da3-4868-a5a7-d215f49b9219(mpsroy.statements.editor)" id="1356057155837656006" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -4226,173 +4246,7 @@
             <selectionStack />
             <folded />
           </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://mpsroy.structure/ParanExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3196545117022361283" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://mpsroy.structure/StringType">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3196545117022342696" modelId="r:55c3d9ae-d698-453e-9adc-36d4975c6824(mpsroy.editor)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://mpsroy.structure/StringLiteral">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3196545117022351006" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://mpsroy.structure/IfThenElse">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3196545117022335128" modelId="r:96c562af-298a-42e5-96eb-90e1cc620d8a(mpsroy.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://jetbrains.mps.bash.structure/EqualityExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="128" />
-                <property name="caretX" value="443" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" id="3999172467438761816" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3999172467438761816" modelId="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://jetbrains.mps.bash.structure/BinaryArithmeticExpression">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretXRelative" value="48" />
-                <property name="caretX" value="79" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
-                  <node model="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" id="3999172467437184655" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3999172467437060443" modelId="r:49b10014-fe6b-4682-a69d-1c3d6188eba3(jetbrains.mps.bash.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://jetbrains.mps.baseLanguage.structure/IfStatement">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="1176898805542" modelId="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://jetbrains.mps.baseLanguage.structure/ElsifClause">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="1206069292242" modelId="r:00000000-0000-4000-0000-011c895902c5(jetbrains.mps.baseLanguage.typesystem)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://mpsroy.structure/TypeAnnotatable">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="true" />
-                <property name="selectionEnd" value="15" />
-                <property name="caretXRelative" value="40" />
-                <property name="selectionStart" value="0" />
-                <property name="caretX" value="195" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="TransactionalProperty_7v1nzk_b0a" cellNumber="0" isInList="false">
-                  <node model="r:9f0b4fd5-bbf4-4a41-8841-702bc206c12b(mpsroy.structure)" id="3196545117022151624" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="3196545117022151624" modelId="r:9f0b4fd5-bbf4-4a41-8841-702bc206c12b(mpsroy.structure)" />
+          <node nodeId="1356057155837655974" modelId="r:f188ac7b-1da3-4868-a5a7-d215f49b9219(mpsroy.statements.editor)" />
         </state>
       </provider>
     </entry>
