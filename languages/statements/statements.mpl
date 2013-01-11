@@ -7,8 +7,7 @@
   <generators />
   <sourcePath />
   <usedLanguages>
-    <usedLanguage>32bb5bc6-5a35-46ea-820c-bc78eade7455(mpsroy.base)</usedLanguage>
-    <usedLanguage>a26478d1-7fcf-4e9e-b167-56e57bea98f0(mpsroy.expressions)</usedLanguage>
+    <usedLanguage>7a5dda62-9140-4668-ab76-d5ed1746f2b2(jetbrains.mps.lang.typesystem)</usedLanguage>
   </usedLanguages>
   <usedDevKits>
     <usedDevKit>2677cb18-f558-4e33-bc38-a5139cee06dc(jetbrains.mps.devkit.language-design)</usedDevKit>
