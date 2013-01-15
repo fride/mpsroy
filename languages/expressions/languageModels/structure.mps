@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model modelUID="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" version="0">
+<model modelUID="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" version="1">
   <persistence version="7" />
   <language namespace="c72da2b9-7cce-4447-8389-f407dc1158b7(jetbrains.mps.lang.structure)" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tpce" modelUID="r:00000000-0000-4000-0000-011c89590292(jetbrains.mps.lang.structure.structure)" version="0" implicit="yes" />
   <import index="e6dw" modelUID="r:b2e6143a-f7a0-4267-88db-d30df686a084(mpsroy.base.structure)" version="0" implicit="yes" />
-  <import index="mw6c" modelUID="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" version="0" implicit="yes" />
+  <import index="mw6c" modelUID="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" version="1" implicit="yes" />
   <roots>
     <node type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="7936668818442095518">
       <property name="name" nameId="tpck.1169194664001" value="Expression" />
@@ -359,11 +359,14 @@
     <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="1356057155837895415">
       <link role="intfc" roleId="tpce.1169127628841" targetNodeId="1356057155837726454" resolveInfo="TypeDerivable" />
     </node>
+    <node role="implements" roleId="tpce.1169129564478" type="tpce.InterfaceConceptReference" typeId="tpce.1169127622168" id="4985048213021010289">
+      <link role="intfc" roleId="tpce.1169127628841" targetNodeId="tpck.1169194658468" resolveInfo="INamedConcept" />
+    </node>
   </root>
   <root id="1356057155837895416">
     <node role="linkDeclaration" roleId="tpce.1071489727083" type="tpce.LinkDeclaration" typeId="tpce.1071489288298" id="1356057155837895417">
       <property name="metaClass" nameId="tpce.1071599937831" value="aggregation" />
-      <property name="role" nameId="tpce.1071599776563" value="parameters" />
+      <property name="role" nameId="tpce.1071599776563" value="parameterDecleration" />
       <property name="sourceCardinality" nameId="tpce.1071599893252" value="0..n" />
       <link role="target" roleId="tpce.1071599976176" targetNodeId="1356057155837895410" resolveInfo="ParameterDecleration" />
     </node>

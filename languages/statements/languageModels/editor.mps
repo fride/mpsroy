@@ -8,7 +8,7 @@
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
   <import index="tp25" modelUID="r:00000000-0000-4000-0000-011c89590301(jetbrains.mps.lang.smodel.structure)" version="16" implicit="yes" />
   <import index="tpee" modelUID="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" version="4" implicit="yes" />
-  <import index="mw6c" modelUID="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" version="0" implicit="yes" />
+  <import index="mw6c" modelUID="r:cc204ab5-276e-480d-adf6-b10af84531d6(mpsroy.expressions.structure)" version="1" implicit="yes" />
   <roots>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="7936668818442095506">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="s7uc.7936668818442095504" resolveInfo="Body" />
@@ -29,6 +29,9 @@
     </node>
     <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="1356057155837943544">
       <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="s7uc.1356057155837895406" resolveInfo="LetFunction" />
+    </node>
+    <node type="tpc2.ConceptEditorDeclaration" typeId="tpc2.1071666914219" id="4985048213021012968">
+      <link role="conceptDeclaration" roleId="tpc2.1166049300910" targetNodeId="s7uc.4985048213021012965" resolveInfo="FakeParameterTest" />
     </node>
   </roots>
   <root id="7936668818442095506">
@@ -180,6 +183,24 @@
         <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="s7uc.1356057155837943543" />
       </node>
       <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="1356057155837943548" />
+    </node>
+  </root>
+  <root id="4985048213021012968">
+    <node role="cellModel" roleId="tpc2.1080736633877" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="4985048213021012970">
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="4985048213021012975">
+        <property name="text" nameId="tpc2.1073389577007" value="FAKE" />
+      </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNode" typeId="tpc2.1073389882823" id="4985048213021015860">
+        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="mw6c.4985048213020570287" />
+      </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Constant" typeId="tpc2.1073389577006" id="4985048213021015866">
+        <property name="text" nameId="tpc2.1073389577007" value="=&gt;" />
+      </node>
+      <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNodeList" typeId="tpc2.1073390211982" id="4985048213021015862">
+        <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="s7uc.4985048213021012967" />
+        <node role="cellLayout" roleId="tpc2.1140524464360" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="4985048213021015863" />
+      </node>
+      <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Indent" typeId="tpc2.1237303669825" id="4985048213021012972" />
     </node>
   </root>
 </model>
